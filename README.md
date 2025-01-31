@@ -1,2 +1,4 @@
-# ACIT-4640-Lab-4
-Lab 4 for Week 4
+# 4640-w4-lab-start-w25
+
+
+See lab instructions on D2L for details
