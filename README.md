@@ -4,5 +4,6 @@
 See lab instructions on D2L for details
 
 # Command used for generating key:
-```ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
